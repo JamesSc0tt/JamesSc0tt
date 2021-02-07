@@ -2,6 +2,7 @@
 
 Welcome to my profile, I'm James 😃 You can find me at:
  - https://ihateba.sh
+ - https://gitlab.com/JamesSc0tt
  - https://www.linkedin.com/in/jamessc0tt/
 
 ### Online
